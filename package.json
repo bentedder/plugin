@@ -4,6 +4,7 @@
   "devDependencies": {
     "grunt": "latest",
     "grunt-contrib-jasmine": "~0.6.3",
-    "matchdep": "latest"
+    "matchdep": "latest",
+    "grunt-contrib-watch": "~0.6.1"
   }
 }
