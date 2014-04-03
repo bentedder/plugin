@@ -1,8 +1,9 @@
 {
   "name": "plugin",
   "version": "0.0.0",
-  "dependencies": {
+  "devDependencies": {
     "grunt": "latest",
+    "grunt-contrib-jasmine": "~0.6.3",
     "matchdep": "latest"
   }
 }

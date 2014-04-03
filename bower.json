@@ -1,0 +1,19 @@
+{
+  "name": "Plugin",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Tedder <ben.tedder@lonelyplanet.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
